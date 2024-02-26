@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Fatai
-I am a Data scientist with strong analytics background
+I am a Data scientist with strong analytics background.
 I enjoy transforming business data into actionable insights. With half a decade of experience in marketing and consulting, I specialize in leveraging data to drive organizational growth and enhance informed decision making.
 
 Skills: PYTHON / SQL / POWER BI / TABLEAU / SPREADSHEET
