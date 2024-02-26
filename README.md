@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Fatai
+I am a Data scientist with strong analytics background
+I enjoy transforming business data into actionable insights. With half a decade of experience in marketing and consulting, I specialize in leveraging data to drive organizational growth and enhance informed decision making.
 
-<!--
-**Fatai-soliu/Fatai-soliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON / SQL / POWER BI / TABLEAU / SPREADSHEET
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning deep learning, NLP, LLMs 
+- 👯 I’m looking to collaborate on data analytics and ML projects 
+- 📫 How to reach me: fataisoliu.fs@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fataisoliu//)  
+
