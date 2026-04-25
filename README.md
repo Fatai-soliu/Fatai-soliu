@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Fatai
 I am a Data scientist with strong analytics background.
-I enjoy transforming business data into actionable insights. With half a decade of experience in data analytics and e-commerce industry, I specialize in leveraging data to drive organizational growth and enhance informed decision making.
+I enjoy transforming business data into actionable insights. With half a decade of experience in data analytics across marketing, finance, e-commerce industry and public sector, I specialize in leveraging data to drive organizational growth and enhance informed decision making.
 
 Skills: PYTHON / SQL / POWER BI / TABLEAU / SPREADSHEET
 
